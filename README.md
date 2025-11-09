@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Motaher Hossain
 
-**Motaher Hossain** (Born: December 02, 2000) is a Bangladeshi **Entrepreneur**,**Author** **Digital Marketer**, and **SMM/SEO Expert** from Rangpur, Bangladesh.
+**Motaher Hossain** (Born: December 02, 2000) is a Bangladeshi **Entrepreneur**, **Author** **Digital Marketer**, and **SMM/SEO Expert** from Rangpur, Bangladesh.
 
 He is also a highly skilled **Python Developer** specializing in creating custom scripts and tools to **automate complex business processes**. He effectively merges his deep marketing expertise with technical acumen to build solutions that save time, scale operations, and maximize efficiency.
 
