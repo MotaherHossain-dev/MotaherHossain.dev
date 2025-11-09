@@ -61,7 +61,7 @@ Led strategies and provided services in **Online Advertising, SMM, SEO, Web Desi
 | :--- | :--- |
 | **Facebook** | [Connect on Facebook](https://www.facebook.com/motaherhossain.dev) |
 | **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/motaherhossai-dev) |
-| **Twitter** | [Follow on Twitter](https://twitter.com/motaherbdpro) |
+| **Twitter** | [Follow on Twitter](https://twitter.com/motaher_dev) |
 | **Instagram** | [Follow on Instagram](https://www.instagram.com/motaherhossain.dev) |
 | **YouTube** | [Subscribe on YouTube](https://youtube.com/@motaherhossain_dev) |
 | **Pinterest** | [Check out Pinterest](https://pinterest.com/motaherhossain_dev) |
